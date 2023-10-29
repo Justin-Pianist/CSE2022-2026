@@ -1,5 +1,5 @@
 for i in range(1,40):
-    print("Kishore loves athanda  loves loves...")
+    print("Kola panniduven da ungala....")
 if(i==11):
     print("i=11")
     print("Because, i=",i)
