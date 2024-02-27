@@ -1,1 +1,1 @@
-println("hello kotlin")
+println("")
